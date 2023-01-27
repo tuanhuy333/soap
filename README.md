@@ -1,5 +1,5 @@
 # soap
-
+Change setting java jdk 1.8 when run
 ## soap-server
 
 ### Run soap-server
